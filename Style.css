@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px ;
+}
+
+body{
+    background-color:gray;
+   font-family: 'PT Sans', sans-serif;
+  
+}
+
+.container{
+ max-width: 1200px;
+ margin: 0px auto;
+background-color: aquamarine;
+padding: 20px ;
+
+
+
+}
+.Image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    float: left;
+}
+.data-bio{
+    float: left;
+    padding: 30px;
+}
+ h1,h2,h3,h4,h5,h6{
+   color:darkorange; 
+}
+.Text-edit{
+  
+  float: right;
+  padding: 30px;
+
+}
+.Text-edit a{
+    text-decoration: none;
+    color:black;
+    font-weight:bold;
+}
+.Text-edit a:hover{
+    color: burlywood;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border: solid black 3px ;
+    width: 100%;
+}
+#Personal-contain{
+
+}
+.Left{
+    width: 30%;
+ float: left;
+}
+.Right{
+    width: 70%;
+    float: left;
+    text-align: justify;
+}
+.Hori{
+    width: 100%;
+    border: solid black 1px 
+    ;
+    margin: 20px auto;
+}
+.Left-templet{
+    width: 45%;
+    float: left;
+
+}
+.Right{
+float: right;
+width: 45%;
+}
+.Bootm-container{
+ background-color: white;
+ text-align: center;
+ padding: 10px ;
+ 
+}
+.Bootm-container a{
+    text-decoration: none;
+    margin:20px ;
+    font-weight:100px;
+}
+.Bootm-container a:hover{
+    color: chartreuse;
+}
+#B{
+    color: darkkhaki;
+}
+#B:hover{
+    color: gold;
+}
+
+
+
